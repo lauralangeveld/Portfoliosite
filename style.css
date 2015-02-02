@@ -93,16 +93,6 @@ a img {
 	border: 0;
 }
 
-#header img{
-	display: inline-block;
-	margin-left: 41%;
-	margin-right: 18% ;
-	padding: 0.5%;
-	width:25%;
-	height:8%;
-	position: relative; 
-}
-
 #menu ul {
     list-style-type: none;  
 	font-size: 20px;
