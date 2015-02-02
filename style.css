@@ -133,6 +133,19 @@ a img {
 	padding: 0 20px;
 }
 
+#upload_file{
+	text-align: center;
+	font-family: Century Gothic, Arial; 
+	font-size: 15px;
+}
+
+.text_border {
+	border-style: dotted;
+    border-width: 4px;
+	margin-left: 300px;
+	margin-right:300px;
+}
+
 h1 {
 	font-family: Century Gothic, Arial; 
 	font-size: 30px;
@@ -141,10 +154,13 @@ h1 {
 	text-decoration: none;
 }
 
-#upload_file{
-	text-align: center;
-	font-family: Century Gothic, Arial; 
+p {
+	font-family: Century Gothic, Arial;
 	font-size: 15px;
+    color: black;
+	text-align: center;
+	text-decoration: none;
+	margin:45px;
 }
 
 #br_4 {
