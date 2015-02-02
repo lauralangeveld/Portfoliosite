@@ -140,3 +140,17 @@ h1 {
 	text-align: center;
 	text-decoration: none;
 }
+
+#upload_file{
+	text-align: center;
+	font-family: Century Gothic, Arial; 
+	font-size: 15px;
+}
+
+#br_4 {
+	padding-top: 35px;
+}
+
+#br_8 {
+	padding-top:40px;
+}
