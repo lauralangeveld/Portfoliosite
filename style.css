@@ -133,17 +133,26 @@ a img {
 	padding: 0 20px;
 }
 
-#upload_file{
-	text-align: center;
-	font-family: Century Gothic, Arial; 
-	font-size: 15px;
-}
-
 .text_border {
 	border-style: dotted;
     border-width: 4px;
 	margin-left: 300px;
 	margin-right:300px;
+}
+
+.weekoverzicht ul{
+	text-align: center;
+	list-style-type: none;
+	padding: 5px;
+}
+
+
+.weekoverzicht ul li a{
+	font-family: Century Gothic, Arial;  
+	font-size: 20px;
+    color: black;
+	text-decoration: none;
+	padding: 0 20px;
 }
 
 h1 {
